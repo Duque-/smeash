@@ -5,7 +5,7 @@
 			"path": "server"
 		},
 		{
-			"path": "www"
+			"path": "client"
 		}
 	]
 }
