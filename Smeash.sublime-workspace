@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"timeElapsed"
+			],
+			[
+				"c",
+				"currentTime"
+			],
+			[
+				"Mon",
+				"MONTHS"
+			],
+			[
+				"tim",
+				"timeElapsed"
+			],
+			[
+				"cl",
+				"clauses"
+			],
+			[
+				"cur",
+				"cur_path_cost"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"fun",
+				"function2"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"sta",
+				"startTime"
+			],
+			[
+				"st",
+				"startTime"
+			],
+			[
+				"se",
+				"sessionData"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"dist",
+				"distance"
+			],
+			[
+				"cu",
+				"currentTrail"
+			],
+			[
+				"de",
+				"distances"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"LEF",
+				"LEFT_MARGIN"
+			],
+			[
+				"LE",
+				"LEFT_MARGIN"
+			],
+			[
+				"curre",
+				"currentDistance"
+			],
+			[
+				"tra",
+				"trials"
+			],
+			[
+				"left",
+				"leftBar"
+			],
+			[
+				"cre",
+				"create_rectangle"
+			],
+			[
+				"map_s",
+				"map_size"
+			],
+			[
+				"re",
+				"recur"
+			],
+			[
+				"m",
+				"my-tr-intersection"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control:",
+		"selected_items":
+		[
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/duque/OneDrive/Rosters/roles.csv",
+		"/C/Users/duque/OneDrive/Rosters/members.csv",
+		"/C/Users/duque/OneDrive/Rosters/team.py",
+		"/C/Users/duque/OneDrive/Rosters/people.py",
+		"/C/Users/duque/OneDrive/Rosters/roster.py",
+		"/C/Users/duque/OneDrive/Rosters/sam.csv",
+		"/C/Users/duque/OneDrive/Rosters/main.pl",
+		"/C/Users/duque/OneDrive/code/forward.py",
+		"/C/Users/duque/OneDrive/Uni/COSC367/Practice/4/q2.py",
+		"/C/Users/duque/Documents/puzzle.py",
+		"/C/Users/duque/OneDrive/Uni/COSC367/lab6/a4.pl",
+		"/C/Users/duque/OneDrive/Uni/COSC367/lab6/q4.pl",
+		"/C/Users/duque/OneDrive/Uni/COSC367/lab6/a3.pl",
+		"/C/Users/duque/OneDrive/Uni/COSC367/lab6/q3.pl",
+		"/C/Users/duque/OneDrive/Uni/COSC367/lab6/a2.pl",
+		"/C/Users/duque/OneDrive/Uni/COSC367/lab6/q2.pl",
+		"/C/Users/duque/OneDrive/Uni/COSC367/lab6/a1.pl",
+		"/C/Users/duque/OneDrive/Uni/COSC367/lab6/q1.pl",
+		"/C/Users/duque/OneDrive/Uni/COSC367/Assignment/search.py",
+		"/C/Users/duque/OneDrive/Uni/COSC367/Assignment/A_search.py",
+		"/C/Users/duque/Downloads/1637 - Pokemon - Leaf Green Version (U).clt",
+		"/C/Users/duque/OneDrive/Uni/COSC367/Lab3/Q10.clj",
+		"/C/Users/duque/OneDrive/Uni/COSC367/Lab3/Q9.clj",
+		"/C/Users/duque/OneDrive/Uni/COSC368/Lab3/experiment_log.txt",
+		"/C/Users/duque/OneDrive/Uni/COSC368/Lab3/fitts.py",
+		"/C/Users/duque/OneDrive/Uni/COSC368/Lab3/learning.py",
+		"/C/Users/duque/OneDrive/Uni/COSC368/Lab2/Keyboard.py",
+		"/C/Users/duque/OneDrive/Uni/COSC367/Lab3/Q8.clj",
+		"/C/Users/duque/OneDrive/Uni/COSC367/Lab3/Q7.clj",
+		"/C/Users/duque/OneDrive/Uni/COSC367/Lab3/Q6.clj",
+		"/C/Users/duque/OneDrive/Uni/COSC367/Lab3/Q5.clj"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"600"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Smeash.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
